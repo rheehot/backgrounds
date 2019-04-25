@@ -42,6 +42,38 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper deleted="false">
+    <name>Far Horizon</name>
+    <filename>/usr/share/backgrounds/Aura/oled/far-horizon.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Flourishing Trees</name>
+    <filename>/usr/share/backgrounds/Aura/oled/flourishing-trees.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Glowing Eclipse</name>
+    <filename>/usr/share/backgrounds/Aura/oled/glowing-eclipse.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Grey Mountain</name>
+    <filename>/usr/share/backgrounds/Aura/oled/grey-mountain.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
     <name>Leafy Branch</name>
     <filename>/usr/share/backgrounds/Aura/oled/leafy-branch.jpg</filename>
     <options>zoom</options>
@@ -60,6 +92,14 @@
   <wallpaper deleted="false">
     <name>Lively Fireworks</name>
     <filename>/usr/share/backgrounds/Aura/oled/lively-fireworks.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Misty Forest</name>
+    <filename>/usr/share/backgrounds/Aura/oled/misty-forest.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -105,5 +145,28 @@
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
+  <wallpaper deleted="false">
+    <name>Speedy Cars</name>
+    <filename>/usr/share/backgrounds/Aura/speedy-cars.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Starry Lake</name>
+    <filename>/usr/share/backgrounds/Aura/starry-lake.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Wispy Fire</name>
+    <filename>/usr/share/backgrounds/Aura/oled/wispy-fire.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
 </wallpapers>
-			

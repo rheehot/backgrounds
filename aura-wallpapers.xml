@@ -146,14 +146,6 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>Grey Mountain</name>
-    <filename>/usr/share/backgrounds/Aura/grey-mountain.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
     <name>Light Berlin</name>
     <filename>/usr/share/backgrounds/Aura/light-berlin.jpg</filename>
     <options>zoom</options>
@@ -288,23 +280,7 @@
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Speedy Cars</name>
-    <filename>/usr/share/backgrounds/Aura/speedy-cars.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
   </wallpaper> 
-  <wallpaper deleted="false">
-    <name>Starry Lake</name>
-    <filename>/usr/share/backgrounds/Aura/starry-lake.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
   <wallpaper deleted="false">
     <name>Sunny Beach</name>
     <filename>/usr/share/backgrounds/Aura/sunny-beach.jpg</filename>
@@ -370,4 +346,3 @@
     <shade_type>solid</shade_type>
   </wallpaper>
 </wallpapers>
-			
