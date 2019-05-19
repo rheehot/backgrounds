@@ -1,2 +1,2 @@
-# Aura OS Wallpapers
+# Aura Wallpapers
 Wallpapers, hand picked for Aura OS.
