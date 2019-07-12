@@ -1,2 +1,2 @@
-# Aura Wallpapers
-Wallpapers, hand picked for Aura OS.
+# Wallpapers
+Wallpapers, hand picked for Ember
