@@ -1,172 +1,188 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
-  <wallpaper deleted="false">
-    <name>Big Fish</name>
-    <filename>/usr/share/backgrounds/Aura/oled/big-fish.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Blooming Flower</name>
-    <filename>/usr/share/backgrounds/Aura/oled/blooming-flower.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Blue Fish</name>
-    <filename>/usr/share/backgrounds/Aura/oled/blue-fish.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Dark Moon</name>
-    <filename>/usr/share/backgrounds/Aura/oled/dark-moon.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Family Jellyfish</name>
-    <filename>/usr/share/backgrounds/Aura/oled/family-jellyfish.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Far Horizon</name>
-    <filename>/usr/share/backgrounds/Aura/oled/far-horizon.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Flourishing Trees</name>
-    <filename>/usr/share/backgrounds/Aura/oled/flourishing-trees.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Glowing Eclipse</name>
-    <filename>/usr/share/backgrounds/Aura/oled/glowing-eclipse.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Grey Mountain</name>
-    <filename>/usr/share/backgrounds/Aura/oled/grey-mountain.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Leafy Branch</name>
-    <filename>/usr/share/backgrounds/Aura/oled/leafy-branch.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Light Earth</name>
-    <filename>/usr/share/backgrounds/Aura/oled/light-earth.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Lively Fireworks</name>
-    <filename>/usr/share/backgrounds/Aura/oled/lively-fireworks.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Misty Forest</name>
-    <filename>/usr/share/backgrounds/Aura/oled/misty-forest.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Orange Jellyfish</name>
-    <filename>/usr/share/backgrounds/Aura/oled/orange-jellyfish.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Paint Smudge</name>
-    <filename>/usr/share/backgrounds/Aura/oled/paint-smudge.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Rainbow Ring</name>
-    <filename>/usr/share/backgrounds/Aura/oled/rainbow-ring.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Red Fish</name>
-    <filename>/usr/share/backgrounds/Aura/oled/red-fish.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Sharp Leaves</name>
-    <filename>/usr/share/backgrounds/Aura/oled/sharp-leaves.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Speedy Cars</name>
-    <filename>/usr/share/backgrounds/Aura/speedy-cars.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Starry Lake</name>
-    <filename>/usr/share/backgrounds/Aura/starry-lake.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Wispy Fire</name>
-    <filename>/usr/share/backgrounds/Aura/oled/wispy-fire.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
+    <wallpaper deleted="false">
+        <name>Big Fish</name>
+        <filename>/usr/share/backgrounds/Aura/oled/big-fish.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Blooming Flower</name>
+        <filename>/usr/share/backgrounds/Aura/oled/blooming-flower.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Blue Fish</name>
+        <filename>/usr/share/backgrounds/Aura/oled/blue-fish.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Dark Moon</name>
+        <filename>/usr/share/backgrounds/Aura/oled/dark-moon.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Erupting Volcano</name>
+        <filename>/usr/share/backgrounds/Aura/oled/erupting-volcano.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Family Jellyfish</name>
+        <filename>/usr/share/backgrounds/Aura/oled/family-jellyfish.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Far Horizon</name>
+        <filename>/usr/share/backgrounds/Aura/oled/far-horizon.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Flourishing Trees</name>
+        <filename>/usr/share/backgrounds/Aura/oled/flourishing-trees.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Glowing Eclipse</name>
+        <filename>/usr/share/backgrounds/Aura/oled/glowing-eclipse.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Glowing Jellyfish</name>
+        <filename>/usr/share/backgrounds/Aura/oled/glowing-jellyfish.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Grey Mountain</name>
+        <filename>/usr/share/backgrounds/Aura/oled/grey-mountain.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Leafy Branch</name>
+        <filename>/usr/share/backgrounds/Aura/oled/leafy-branch.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Light Earth</name>
+        <filename>/usr/share/backgrounds/Aura/oled/light-earth.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Lively Fireworks</name>
+        <filename>/usr/share/backgrounds/Aura/oled/lively-fireworks.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Misty Forest</name>
+        <filename>/usr/share/backgrounds/Aura/oled/misty-forest.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Orange Jellyfish</name>
+        <filename>/usr/share/backgrounds/Aura/oled/orange-jellyfish.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Paint Smudge</name>
+        <filename>/usr/share/backgrounds/Aura/oled/paint-smudge.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Rainbow Ring</name>
+        <filename>/usr/share/backgrounds/Aura/oled/rainbow-ring.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Red Fish</name>
+        <filename>/usr/share/backgrounds/Aura/oled/red-fish.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Sharp Leaves</name>
+        <filename>/usr/share/backgrounds/Aura/oled/sharp-leaves.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Speedy Cars</name>
+        <filename>/usr/share/backgrounds/Aura/speedy-cars.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Starry Lake</name>
+        <filename>/usr/share/backgrounds/Aura/starry-lake.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Wispy Fire</name>
+        <filename>/usr/share/backgrounds/Aura/oled/wispy-fire.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
 </wallpapers>

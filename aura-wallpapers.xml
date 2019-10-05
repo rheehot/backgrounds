@@ -1,324 +1,476 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
-  <wallpaper deleted="false">
-    <name>Abstract Smears</name>
-    <filename>/usr/share/backgrounds/Aura/abstract-smears.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Aerial Boat</name>
-    <filename>/usr/share/backgrounds/Aura/aerial-boat.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Aerial Cliff</name>
-    <filename>/usr/share/backgrounds/Aura/aerial-cliff.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Aerial Jetty</name>
-    <filename>/usr/share/backgrounds/Aura/aerial-jetty.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Birdseye Boardwalk</name>
-    <filename>/usr/share/backgrounds/Aura/birdseye-boardwalk.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Blossom Leaves</name>
-    <filename>/usr/share/backgrounds/Aura/blossom-leaves.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Blue Cliffs</name>
-    <filename>/usr/share/backgrounds/Aura/blue-cliffs.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Blue Greece</name>
-    <filename>/usr/share/backgrounds/Aura/blue-greece.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Colourful Ice</name>
-    <filename>/usr/share/backgrounds/Aura/colourful-ice.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Colourful Poland</name>
-    <filename>/usr/share/backgrounds/Aura/colourful-poland.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Cutthrough Streams</name>
-    <filename>/usr/share/backgrounds/Aura/cutthrough-streams.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Diagonal Squares</name>
-    <filename>/usr/share/backgrounds/Aura/diagonal-squares.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Dimensional Glass</name>
-    <filename>/usr/share/backgrounds/Aura/dimensional-glass.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Distant Yosemite</name>
-    <filename>/usr/share/backgrounds/Aura/distant-yosemite.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Dry Desert</name>
-    <filename>/usr/share/backgrounds/Aura/dry-desert.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Golden Gate</name>
-    <filename>/usr/share/backgrounds/Aura/golden-gate.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Green Plants</name>
-    <filename>/usr/share/backgrounds/Aura/green-plants.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Greeny Waves</name>
-    <filename>/usr/share/backgrounds/Aura/greeny-waves.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Modern Bridge</name>
-    <filename>/usr/share/backgrounds/Aura/modern-bridge.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Morning Sunrise</name>
-    <filename>/usr/share/backgrounds/Aura/morning-sunrise.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Orange Flowers</name>
-    <filename>/usr/share/backgrounds/Aura/orange-flowers.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Orange Sand</name>
-    <filename>/usr/share/backgrounds/Aura/orange-sand.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Pastel Paint</name>
-    <filename>/usr/share/backgrounds/Aura/pastel-paint.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Picturesque Hut</name>
-    <filename>/usr/share/backgrounds/Aura/picturesque-hut.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Pink Flower</name>
-    <filename>/usr/share/backgrounds/Aura/pink-flower.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Pinky Cliffs</name>
-    <filename>/usr/share/backgrounds/Aura/pinky-cliffs.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Red Mountain</name>
-    <filename>/usr/share/backgrounds/Aura/red-mountain.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Redblue Ink</name>
-    <filename>/usr/share/backgrounds/Aura/redblue-ink.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Sandy Coast</name>
-    <filename>/usr/share/backgrounds/Aura/sandy-coast.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Satellite Planet</name>
-    <filename>/usr/share/backgrounds/Aura/satellite-planet.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Shiny Architecture</name>
-    <filename>/usr/share/backgrounds/Aura/shiny-architecture.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Shiny Curves</name>
-    <filename>/usr/share/backgrounds/Aura/shiny-curves.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Snowy Face</name>
-    <filename>/usr/share/backgrounds/Aura/snowy-face.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper> 
-  <wallpaper deleted="false">
-    <name>Sunny Beach</name>
-    <filename>/usr/share/backgrounds/Aura/sunny-beach.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Sunrise Cliff</name>
-    <filename>/usr/share/backgrounds/Aura/sunrise-cliff.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Trees Coast</name>
-    <filename>/usr/share/backgrounds/Aura/trees-coast.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Turquoise Sea</name>
-    <filename>/usr/share/backgrounds/Aura/turquoise-sea.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Underwater Dolphins</name>
-    <filename>/usr/share/backgrounds/Aura/underwater-dolphins.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Upwards Trees</name>
-    <filename>/usr/share/backgrounds/Aura/upwards-trees.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Water Building</name>
-    <filename>/usr/share/backgrounds/Aura/water-building.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
+    <wallpaper deleted="false">
+        <name>Abstract Smears</name>
+        <filename>/usr/share/backgrounds/Aura/abstract-smears.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Aerial Boat</name>
+        <filename>/usr/share/backgrounds/Aura/aerial-boat.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Aerial Cliff</name>
+        <filename>/usr/share/backgrounds/Aura/aerial-cliff.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Aerial Forest</name>
+        <filename>/usr/share/backgrounds/Aura/aerial-forest.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Aerial Glider</name>
+        <filename>/usr/share/backgrounds/Aura/aerial-glider.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Aerial Island</name>
+        <filename>/usr/share/backgrounds/Aura/aerial-island.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Aerial Jetty</name>
+        <filename>/usr/share/backgrounds/Aura/aerial-jetty.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Aerial Waves</name>
+        <filename>/usr/share/backgrounds/Aura/aerial-waves.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Birdseye Boardwalk</name>
+        <filename>/usr/share/backgrounds/Aura/birdseye-boardwalk.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Blossom Leaves</name>
+        <filename>/usr/share/backgrounds/Aura/blossom-leaves.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Blue Cliffs</name>
+        <filename>/usr/share/backgrounds/Aura/blue-cliffs.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Blue Greece</name>
+        <filename>/usr/share/backgrounds/Aura/blue-greece.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Cliff Aurora</name>
+        <filename>/usr/share/backgrounds/Aura/cliff-aurora.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Close-up Leaf</name>
+        <filename>/usr/share/backgrounds/Aura/aerial-forest.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Colourful Ice</name>
+        <filename>/usr/share/backgrounds/Aura/colourful-ice.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Colourful Poland</name>
+        <filename>/usr/share/backgrounds/Aura/colourful-poland.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Contrast Canyon</name>
+        <filename>/usr/share/backgrounds/Aura/contrast-canyon.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Cutthrough Streams</name>
+        <filename>/usr/share/backgrounds/Aura/cutthrough-streams.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Diagonal Squares</name>
+        <filename>/usr/share/backgrounds/Aura/diagonal-squares.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Dimensional Glass</name>
+        <filename>/usr/share/backgrounds/Aura/dimensional-glass.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Distant Yosemite</name>
+        <filename>/usr/share/backgrounds/Aura/distant-yosemite.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Dry Desert</name>
+        <filename>/usr/share/backgrounds/Aura/dry-desert.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Glowing Blanket</name>
+        <filename>/usr/share/backgrounds/Aura/glowing-blanket.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Golden Gate</name>
+        <filename>/usr/share/backgrounds/Aura/golden-gate.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Golden Panels</name>
+        <filename>/usr/share/backgrounds/Aura/golden-panels.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Gradient Flower</name>
+        <filename>/usr/share/backgrounds/Aura/gradient-flower.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Green Plants</name>
+        <filename>/usr/share/backgrounds/Aura/green-plants.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Greeny Waves</name>
+        <filename>/usr/share/backgrounds/Aura/greeny-waves.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Ice Cracks</name>
+        <filename>/usr/share/backgrounds/Aura/aerial-forest.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Lonely Cloud</name>
+        <filename>/usr/share/backgrounds/Aura/lonely-cloud.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Midday Mojave</name>
+        <filename>/usr/share/backgrounds/Aura/midday-mojave.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Modern Bridge</name>
+        <filename>/usr/share/backgrounds/Aura/modern-bridge.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Morning Sunrise</name>
+        <filename>/usr/share/backgrounds/Aura/morning-sunrise.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Orange Flowers</name>
+        <filename>/usr/share/backgrounds/Aura/orange-flowers.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Orange Sand</name>
+        <filename>/usr/share/backgrounds/Aura/orange-sand.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Paint Flow</name>
+        <filename>/usr/share/backgrounds/Aura/paint-flow.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Pastel Paint</name>
+        <filename>/usr/share/backgrounds/Aura/pastel-paint.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Picturesque Hut</name>
+        <filename>/usr/share/backgrounds/Aura/picturesque-hut.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Pink Flower</name>
+        <filename>/usr/share/backgrounds/Aura/pink-flower.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Pinky Blue</name>
+        <filename>/usr/share/backgrounds/Aura/pinky-blue.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Pinky Cliffs</name>
+        <filename>/usr/share/backgrounds/Aura/pinky-cliffs.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Redblue Ink</name>
+        <filename>/usr/share/backgrounds/Aura/redblue-ink.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Red Mountain</name>
+        <filename>/usr/share/backgrounds/Aura/red-mountain.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Red Tree</name>
+        <filename>/usr/share/backgrounds/Aura/red-tree.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Sandy Coast</name>
+        <filename>/usr/share/backgrounds/Aura/sandy-coast.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Satellite Planet</name>
+        <filename>/usr/share/backgrounds/Aura/satellite-planet.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Shiny Architecture</name>
+        <filename>/usr/share/backgrounds/Aura/shiny-architecture.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Shiny Curves</name>
+        <filename>/usr/share/backgrounds/Aura/shiny-curves.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Snowy Face</name>
+        <filename>/usr/share/backgrounds/Aura/snowy-face.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Spectacular Clouds</name>
+        <filename>/usr/share/backgrounds/Aura/spectacular-clouds.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Sunny Beach</name>
+        <filename>/usr/share/backgrounds/Aura/sunny-beach.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Sunrise Blossom</name>
+        <filename>/usr/share/backgrounds/Aura/sunrise-blossom.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Sunrise Cliff</name>
+        <filename>/usr/share/backgrounds/Aura/sunrise-cliff.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Sunset Valley</name>
+        <filename>/usr/share/backgrounds/Aura/sunset-valley.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Trees Coast</name>
+        <filename>/usr/share/backgrounds/Aura/trees-coast.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Turquoise Sea</name>
+        <filename>/usr/share/backgrounds/Aura/turquoise-sea.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Underwater Dolphins</name>
+        <filename>/usr/share/backgrounds/Aura/underwater-dolphins.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Upwards Trees</name>
+        <filename>/usr/share/backgrounds/Aura/upwards-trees.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Water Building</name>
+        <filename>/usr/share/backgrounds/Aura/water-building.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
 </wallpapers>

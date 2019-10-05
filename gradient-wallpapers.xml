@@ -1,69 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
-  <wallpaper deleted="false">
-    <name>Blue</name>
-    <filename>/usr/share/backgrounds/Aura/gradients/gradient-blue.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Green</name>
-    <filename>/usr/share/backgrounds/Aura/gradients/gradient-green.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Grey</name>
-    <filename>/usr/share/backgrounds/Aura/gradients/gradient-grey.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Multicolour</name>
-    <filename>/usr/share/backgrounds/Aura/gradients/gradient-multicolour.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Navy</name>
-    <filename>/usr/share/backgrounds/Aura/gradients/gradient-navy.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Orange</name>
-    <filename>/usr/share/backgrounds/Aura/gradients/gradient-orange.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Red</name>
-    <filename>/usr/share/backgrounds/Aura/gradients/gradient-red.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Yellow</name>
-    <filename>/usr/share/backgrounds/Aura/gradients/gradient-yellow.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
+    <wallpaper deleted="false">
+        <name>Blue</name>
+        <filename>/usr/share/backgrounds/Aura/gradients/gradient-blue.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Green</name>
+        <filename>/usr/share/backgrounds/Aura/gradients/gradient-green.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Grey</name>
+        <filename>/usr/share/backgrounds/Aura/gradients/gradient-grey.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Multicolour</name>
+        <filename>/usr/share/backgrounds/Aura/gradients/gradient-multicolour.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Navy</name>
+        <filename>/usr/share/backgrounds/Aura/gradients/gradient-navy.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Orange</name>
+        <filename>/usr/share/backgrounds/Aura/gradients/gradient-orange.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Red</name>
+        <filename>/usr/share/backgrounds/Aura/gradients/gradient-red.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Yellow</name>
+        <filename>/usr/share/backgrounds/Aura/gradients/gradient-yellow.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
 </wallpapers>
-			
