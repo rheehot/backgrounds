@@ -1,2 +1,2 @@
 # Wallpapers
-Wallpapers, hand picked for Ember
+A specially curated selection of wallpapers sourced from Unsplash.
